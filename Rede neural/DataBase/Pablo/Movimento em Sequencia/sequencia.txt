@@ -1,0 +1,13 @@
+cada movimento tem aproximadamete 10s na sequencia de:
+
+Apontar
+Relaxado
+digitar
+relaxado
+joia
+relaxado
+piça (2 dedos)
+relaxado
+pinca (todos dedos)
+relaxado
+segurar
